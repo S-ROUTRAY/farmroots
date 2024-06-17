@@ -1,0 +1,70 @@
+[
+     
+    {
+        "id" : 1,
+        "state" : "Odisha",
+        "products" : ["Jute", "Cocunut", "OilSeeds","Tea","Rubber"]
+    },
+    {
+        "id" : 2,
+        "state" : "Punjab",
+        "products" : ["Rice","Wheat","Paddy","Pulses","Maize"]
+    },
+    {
+        "id" : 3,
+        "state" : "Haryana",
+        "products" : ["Rice","Wheat","Cotton","Sugarcane","Maize"]
+    },
+    {
+        "id" : 4,
+        "state" : "UttarPradesh",
+        "products" : ["Barley","Wheat","GroundNut","Sugarcan","Potato"]
+    },
+    {
+        "id" : 5,
+        "state" : "Punjab",
+        "products" : ["Rice","Wheat","Paddy","Pulses","Maize"]
+    },
+    {
+        "id" : 6,
+        "state" : "Punjab",
+        "products" : ["Rice","Wheat","Paddy","Pulses","Maize"]
+    },
+    {
+        "id" : 7,
+        "state" : "Punjab",
+        "products" : ["Rice","Wheat","Paddy","Pulses","Maize"]
+    },
+    {
+        "id" : 8,
+        "state" : "Bihar",
+        "products" : ["Rice","Wheat","Arhar","Lentils","Maize"]
+    },
+    {
+        "id" : 9,
+        "state" : "Karnataka",
+        "products" : ["Rice","MoongDal","Sugarcane","Soyabean","Maize"]
+    },
+    {
+        "id" : 10,
+        "state" : "AndhraPradesh",
+        "products" : ["GroundNut","Rice","Cotton","Sunflower","Pigeon Pea"]
+    },
+    {
+        "id" : 11,
+        "state" : "WestBengal",
+        "products" : ["Rice","Jute","Okra","Tomato","Wheat"]
+    },
+    {
+        "id" : 12,
+        "state" : "Maharashtra",
+        "products" : ["Rice","Jowar","Bajara","Wheat","Pulses"]
+    },
+    {
+        "id" : 13,
+        "state" : "Assam",
+        "products" : ["Rice","Wheat","Barley","Tea","Oats"]
+    }
+
+    
+]

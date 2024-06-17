@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c8ede8;
+}
+header {
+    text-align:center;
+    background-image: url("/img/photo.jpg");
+    color: white;
+    padding:20px;
+    height:350px;
+    text-shadow:0 0 15px #ff0000, 0 0 20px #0000ff;
+}
+header:nth-last-child(2) {
+    font-size: 50px;
+}
+#about {
+   height: 200px; 
+   text-align: center;
+   text-shadow:0 0 1px #0cc6aa, 0 0 2px #015183;
+}
+section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input, button {
+    margin: 10px;
+    padding: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color:green;
+}
+#searchResults, #guidanceResults {
+    margin-top: 10px;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.slider-container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+
+}
+#about {
+    background-color: aquamarine;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+    min-width: 95%;
+    text-align:center;
+    padding: 24px;
+    font-size: 24px;
+    background: aquamarine;
+}
+button {
+    margin: 10px;
+}
+.popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    text-align: center;
+}
+#footer div {
+    text-align: center;
+}
